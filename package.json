@@ -1,0 +1,19 @@
+{
+	"name": "chrome-manifest-plugin",
+	"version": "1.0.0",
+	"engines": {
+		"node": ">=6.9"
+	},
+	"description": "Plugin to inject chrome manfest.json file into html",
+	"license": "MIT",
+	"author": "Keiser",
+	"homepage": "",
+	"repository": "",
+	"bugs": "",
+	"main": "src/index.js",
+	"scripts": {
+		"lint": "eslint .",
+		"np": "np",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
