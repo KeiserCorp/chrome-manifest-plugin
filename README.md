@@ -5,7 +5,7 @@ This plugin generates a Chrome Manifest file.
 This repository is not currently published to `npm`, so add to your project using `KeiserCorp/webpack-plugin-webmanifest`.
 
 ## Usage
-```
+```js
 var ChromeManifestPlugin = require('chrome-manifest-plugin')
 
 module.exports = {
