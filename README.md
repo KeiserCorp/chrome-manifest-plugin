@@ -21,3 +21,6 @@ module.exports = {
   ]
 };
 ```
+
+## Copyright and License
+Copyright [Keiser Corporation](http://keiser.com/) under the [MIT license](LICENSE.md).
